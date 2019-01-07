@@ -50,6 +50,13 @@ Chisel3 - hardware construction language as DSL in Scala
 
 Generates Verilog that can be deployed to FPGAs or ASICs.
 
+```v
+module On( // @[:@3.2]
+  output  io_led // @[:@4.4]
+);
+  assign io_led = 1'h1; // @[On.scala 14:10:@6.4]
+endmodule
+```
 
 
  </textarea>
