@@ -1,3 +1,11 @@
+# Fork of [freechipsproject/chisel-template](https://github.com/freechipsproject/chisel-template)
+
+Adds TinyFPGA BX support and [slides](https://indyscala.org/chisel3) for Indy Scala presentation.
+
+Upstream README below.
+
+-- -- --
+
 Chisel Project Template
 =======================
 
