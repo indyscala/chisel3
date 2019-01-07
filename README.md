@@ -2,6 +2,8 @@
 
 Adds TinyFPGA BX support and [slides](http://indyscala.org/chisel3) for Indy Scala presentation.
 
+![hardware for demo](docs/assets/breadboard.jpg)
+
 Upstream README below.
 
 -- -- --
